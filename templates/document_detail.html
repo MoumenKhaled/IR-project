@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document Details</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Document Details</h1>
+    <div class="card">
+        <div class="card-body">
+            {{ content|safe }}
+        </div>
+    </div>
+    <a href="/" class="btn btn-primary mt-3">Back to Search</a>
+</div>
+</body>
+</html>

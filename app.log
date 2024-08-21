@@ -1,0 +1,59 @@
+2024-06-05 00:13:23,087:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+2024-06-05 00:13:23,087:INFO:[33mPress CTRL+C to quit[0m
+2024-06-05 00:13:23,093:INFO: * Restarting with stat
+2024-06-05 00:14:01,781:WARNING: * Debugger is active!
+2024-06-05 00:14:01,788:INFO: * Debugger PIN: 974-911-125
+2024-06-05 00:14:40,290:INFO:127.0.0.1 - - [05/Jun/2024 00:14:40] "GET / HTTP/1.1" 200 -
+2024-06-05 00:15:06,164:INFO:127.0.0.1 - - [05/Jun/2024 00:15:06] "POST /search HTTP/1.1" 200 -
+2024-06-05 00:15:09,466:INFO:127.0.0.1 - - [05/Jun/2024 00:15:09] "GET /document/690?dataset=lifestyle HTTP/1.1" 200 -
+2024-06-05 00:15:56,677:INFO:127.0.0.1 - - [05/Jun/2024 00:15:56] "POST /search HTTP/1.1" 200 -
+2024-06-05 00:16:00,908:INFO:127.0.0.1 - - [05/Jun/2024 00:16:00] "POST /search HTTP/1.1" 200 -
+2024-06-05 00:16:13,287:INFO:127.0.0.1 - - [05/Jun/2024 00:16:13] "POST /search HTTP/1.1" 200 -
+2024-06-05 00:16:16,454:INFO:127.0.0.1 - - [05/Jun/2024 00:16:16] "GET /document/10995?dataset=clinical HTTP/1.1" 200 -
+2024-06-05 00:16:24,882:INFO:127.0.0.1 - - [05/Jun/2024 00:16:24] "POST /search HTTP/1.1" 200 -
+2024-06-05 00:16:33,343:INFO:127.0.0.1 - - [05/Jun/2024 00:16:33] "POST /search HTTP/1.1" 200 -
+2024-06-05 00:16:57,314:INFO:127.0.0.1 - - [05/Jun/2024 00:16:57] "POST /search HTTP/1.1" 200 -
+2024-06-05 08:44:53,056:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+2024-06-05 08:44:53,056:INFO:[33mPress CTRL+C to quit[0m
+2024-06-05 08:44:53,069:INFO: * Restarting with stat
+2024-06-05 08:45:26,450:WARNING: * Debugger is active!
+2024-06-05 08:45:26,501:INFO: * Debugger PIN: 974-911-125
+2024-06-05 08:45:49,880:INFO:127.0.0.1 - - [05/Jun/2024 08:45:49] "GET / HTTP/1.1" 200 -
+2024-06-05 08:45:50,042:INFO:127.0.0.1 - - [05/Jun/2024 08:45:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-06-05 08:46:01,338:INFO:127.0.0.1 - - [05/Jun/2024 08:46:01] "[31m[1mPOST /offline HTTP/1.1[0m" 400 -
+2024-06-05 08:46:49,929:INFO:127.0.0.1 - - [05/Jun/2024 08:46:49] "POST /search HTTP/1.1" 200 -
+2024-06-05 08:46:57,217:INFO:127.0.0.1 - - [05/Jun/2024 08:46:57] "GET /document/690?dataset=lifestyle HTTP/1.1" 200 -
+2024-06-05 08:47:03,338:INFO:127.0.0.1 - - [05/Jun/2024 08:47:03] "GET / HTTP/1.1" 200 -
+2024-06-05 09:21:43,329:INFO:127.0.0.1 - - [05/Jun/2024 09:21:43] "[31m[1mPOST /offline HTTP/1.1[0m" 400 -
+2024-06-05 11:48:38,825:INFO:127.0.0.1 - - [05/Jun/2024 11:48:38] "POST /search HTTP/1.1" 200 -
+2024-06-05 11:48:49,445:INFO:127.0.0.1 - - [05/Jun/2024 11:48:49] "GET /document/690?dataset=lifestyle HTTP/1.1" 200 -
+2024-06-05 11:48:52,457:INFO:127.0.0.1 - - [05/Jun/2024 11:48:52] "GET / HTTP/1.1" 200 -
+2024-06-05 11:49:36,739:INFO:127.0.0.1 - - [05/Jun/2024 11:49:36] "POST /search HTTP/1.1" 200 -
+2024-06-05 12:40:49,419:INFO: * Detected change in 'C:\\projects\\ir_project\\Main.py', reloading
+2024-06-05 12:40:49,938:INFO: * Restarting with stat
+2024-06-05 12:41:33,134:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+2024-06-05 12:41:33,134:INFO:[33mPress CTRL+C to quit[0m
+2024-06-05 12:41:33,136:INFO: * Restarting with stat
+2024-06-05 12:42:06,944:WARNING: * Debugger is active!
+2024-06-05 12:42:06,944:INFO: * Debugger PIN: 974-911-125
+2024-06-05 12:42:07,211:INFO:127.0.0.1 - - [05/Jun/2024 12:42:07] "GET / HTTP/1.1" 200 -
+2024-06-05 12:42:31,756:INFO:127.0.0.1 - - [05/Jun/2024 12:42:31] "[31m[1mPOST /offline HTTP/1.1[0m" 400 -
+2024-06-05 12:53:06,916:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000
+2024-06-05 12:53:06,916:INFO:[33mPress CTRL+C to quit[0m
+2024-06-05 12:53:06,921:INFO: * Restarting with stat
+2024-06-05 12:53:43,326:WARNING: * Debugger is active!
+2024-06-05 12:53:43,334:INFO: * Debugger PIN: 974-911-125
+2024-06-05 12:53:58,526:INFO:127.0.0.1 - - [05/Jun/2024 12:53:58] "GET / HTTP/1.1" 200 -
+2024-06-05 12:55:53,051:INFO:127.0.0.1 - - [05/Jun/2024 12:55:53] "GET / HTTP/1.1" 200 -
+2024-06-05 13:18:41,928:INFO:127.0.0.1 - - [05/Jun/2024 13:18:41] "GET / HTTP/1.1" 200 -
+2024-06-05 13:31:04,534:INFO:127.0.0.1 - - [05/Jun/2024 13:31:04] "POST /search HTTP/1.1" 200 -
+2024-06-05 13:31:48,750:INFO:127.0.0.1 - - [05/Jun/2024 13:31:48] "POST /search HTTP/1.1" 200 -
+2024-06-05 13:33:32,150:INFO:127.0.0.1 - - [05/Jun/2024 13:33:32] "GET /document/15322?dataset=clinical HTTP/1.1" 200 -
+2024-06-05 13:33:43,062:INFO:127.0.0.1 - - [05/Jun/2024 13:33:43] "GET / HTTP/1.1" 200 -
+2024-06-05 13:34:07,367:INFO:127.0.0.1 - - [05/Jun/2024 13:34:07] "POST /search HTTP/1.1" 200 -
+2024-06-05 13:34:36,595:INFO:127.0.0.1 - - [05/Jun/2024 13:34:36] "POST /search HTTP/1.1" 200 -
+2024-06-05 13:34:58,170:INFO:127.0.0.1 - - [05/Jun/2024 13:34:58] "GET /document/5482?dataset=lifestyle HTTP/1.1" 200 -

@@ -1,0 +1,41 @@
+melanoma KIT (L576P) 65-year-old female
+melanoma KIT (L576P), KIT amplification 56-year-old female
+melanoma KIT (K642E) 62-year-old female
+melanoma KIT (N822Y) 39-year-old female
+melanoma KIT amplification 66-year-old female
+melanoma NF1 truncation 70-year-old male
+melanoma NTRK1 rearrangement 60-year-old male
+melanoma TP53 loss of function 72-year-old male
+melanoma tumor cells with >50% membranous PD-L1 expression 48-year-old female
+melanoma tumor cells negative for PD-L1 expression 73-year-old male
+melanoma high tumor mutational burden 86-year-old female
+melanoma extensive tumor infiltrating lymphocytes 49-year-old male
+melanoma no tumor infiltrating lymphocytes 74-year-old female
+melanoma PTEN loss of function 68-year-old male
+melanoma APC loss of function 47-year-old male
+melanoma high serum LDH levels 69-year-old female
+colorectal cancer NRAS 49-year-old male
+medullary thyroid carcinoma RET 45-year-old female
+neuroblastoma ALK 4-year-old female
+esophageal cancer EGFR 67-year-old male
+lung cancer ROS1 71-year-old female
+head and neck squamous cell carcinoma CDKN2A 64-year-old male
+leukemia ABL1 4-year-old female
+gastric cancer EGFR 60-year-old female
+sarcoma MDM2 78-year-old female
+breast cancer CDKN2A 73-year-old female
+lung cancer ERBB2 49-year-old female
+non-small cell carcinoma MET 68-year-old male
+cholangiocarcinoma IDH1 50-year-old male
+anaplastic large cell lymphoma ALK 18-year-old male
+breast cancer ERBB2 56-year-old female
+papillary thyroid carcinoma NTRK1 46-year-old female
+glioblastoma CDK6 84-year-old male
+basal cell carcinoma PTCH1 56-year-old female
+glioma BRAF 82-year-old male
+thyroid cancer BRAF 40-year-old female
+lung cancer FGFR1 57-year-old male
+prostate cancer PTEN 70-year-old male
+adenoid cystic carcinoma KIT 58-year-old female
+acute myeloid leukemia IDH1 1-year-old male
+acute myeloid leukemia FLT3 13-year-old male
